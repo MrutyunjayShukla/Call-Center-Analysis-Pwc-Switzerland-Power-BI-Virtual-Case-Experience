@@ -40,8 +40,6 @@ Dataset was loaded into Power BI , Data was tranformed and loaded in Power Query
 ## Data Modelling 
 After the dataset was cleaned and transformed, The Data is ready for Modelling.
 
-## Data Visualization 
-
 ## DAX
 - **Measures used**:
      - % of Incident Resolved = [Resolved_Incident]/[Calls Answered]
@@ -49,6 +47,8 @@ After the dataset was cleaned and transformed, The Data is ready for Modelling.
      - Calls Abondend = CALCULATE(COUNTROWS(Sheet1),Sheet1[Answered (Y/N)] = "N")
      - Calls Answered = CALCULATE(COUNTROWS(Sheet1),Sheet1[Answered (Y/N)] = "Y")
      - Resolved_Incident = CALCULATE(COUNTROWS(Sheet1),Sheet1[Resolved]="Y")
+
+## Data Visualization 
 
 ## Visuals Used
 - 2 Donut Chart's : Overall Calls Answered and Resolved 
