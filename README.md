@@ -40,6 +40,8 @@ Dataset was loaded into Power BI , Data was tranformed and loaded in Power Query
 ## Data Modelling 
 After the dataset was cleaned and transformed, The Data is ready for Modelling.
 
+## Data Visualization 
+
 ## DAX
 - **Measures used**:
      - % of Incident Resolved = [Resolved_Incident]/[Calls Answered]
