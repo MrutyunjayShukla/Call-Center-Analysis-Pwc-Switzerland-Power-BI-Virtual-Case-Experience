@@ -1,4 +1,4 @@
-# Call Center Analysis Pwc Switzerland Power BI :  Task 1
+# Call Center Analysis Pwc Switzerland Power BI:  Task 1
 Call Center Analysis | Pwc Switzerland Power BI Task 1
 
 
@@ -13,16 +13,16 @@ Call Center Analysis | Pwc Switzerland Power BI Task 1
 - Insights
 
 ## Problem Statement
-- **Problem** The Manager at Phonenow is looking for insights in to the Call Center DataSet.
-- **Objective** To Create a Dashboard in Power BI for Call Center mannager the reflects all relevant KPI'S:
+- **Problem** The manager at Phonenow is looking for insights into the Call Center DataSet.
+- **Objective** To create a dashboard in Power BI for the call center manager that reflects all relevant KPIs:
      - Agent Performance 
      - Customer Satisfaction
      - Exploratory Data Analysis
   
 - **Possible KPI'S** 
-     - Overall calls answered and  resolved
+     - Overall calls were answered and  resolved
      - Calls sorted by topic
-     - Calls per Month
+     - Calls per month
      - Agent Performance 
      - Average Talktime
      - Average Satisfaction
@@ -33,12 +33,12 @@ Call Center Analysis | Pwc Switzerland Power BI Task 1
 The Dataset was provided by PWC Switzerland.
 
 ## Data Preparation
-Dataset was loaded into Power BI , Data was tranformed and loaded in Power Query editor.
-- Validation of each coloumn Data Type's
-- Removing Unnecessary Row's and Column's
+The dataset was loaded into Power BI, data was transformed and loaded in the Power Query editor.
+- Validation of each column data type's
+- Removing unnecessary rows and columns
 
 ## Data Modelling 
-After the dataset was cleaned and transformed, The Data is ready for Modelling.
+After the dataset is cleaned and transformed, the data is ready for modelling.
 
 ## DAX
 - **Measures used**:
@@ -51,13 +51,13 @@ After the dataset was cleaned and transformed, The Data is ready for Modelling.
 ## Data Visualization 
 
 ## Visuals Used
-- 2 Donut Chart's : Overall Calls Answered and Resolved 
-- 3 Slicers's : Date, Topica and Agent
-- 2 Cards's : Speed of Calls and Average Talktime
-- 1 Guage : Average Satisfaction
-- 1 Statcked column Chart : Calls per Month
-- Line Chart : Calls Answered by Avg. Talk Duration in Min
-- Table : Agent statistics
+- 2 Donut Charts: Overall Calls Answered and Resolved 
+- 3 Slicers: Date, Topica and Agent
+- 2 Cards: Speed of Calls and Average Talktime
+- 1 Guage: Average Satisfaction
+- 1 Statcked column Chart: Calls per Month
+- Line Chart: Calls Answered by Avg. Talk Duration in Min
+- Table: Agent statistics
 
 ## Dash Board
 Visualization from Call Center Trends
@@ -67,8 +67,8 @@ Visualization from Call Center Trends
 ## Insights
 - The average satisfaction rating of Martha is the highest
 - The average speed of answer by Joe is the highest
-- The % of incident resolved by Greg is the highest
+- The percentage of incidents resolved by Greg is the highest
 - The count of calls in January is more as compared to other 
-- Most Calls are related to streaming 
+- Most calls are related to streaming 
 
      
